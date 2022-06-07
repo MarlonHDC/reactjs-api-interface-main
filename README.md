@@ -17,8 +17,7 @@ We will create an application using the github public api.
 ### Preview
 
 Print of the finished project.
-
-![plot](./image/snapshot-1.png)
+![ReactComponent](https://user-images.githubusercontent.com/94640918/172270944-2d29ec9b-e48d-4902-abd4-be399004cefe.jpeg)
 
 ### Libraries used
 
